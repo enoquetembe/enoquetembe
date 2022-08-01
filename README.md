@@ -11,6 +11,8 @@
   </p> 
 </div>
 
+<hr>
+
 <div align="left">
   <h3> My  current  GitHub Stats: </h3>  
   <a href="https://github.com/enoquetembe">
@@ -18,6 +20,7 @@
  </div>
   
   <br>
+  <hr>
 <div>
   <h3> Tech and Tools Stack: </h3>
   <div style="display: inline_block">
