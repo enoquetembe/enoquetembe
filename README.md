@@ -4,9 +4,9 @@
 <div> 
   <h3> About me:</h3>
   <p>
-    I'm a junior developer who wants to learn, share, grow and develop my skills in the web development field.
-    I have a desire to become a fullstack developer using the Javascript stack (React and Node).
-    I'm currently learning javascript and I'm very passionate about the language.
+    I'm a junior developer who wants to learn, share, grow and develop my skills in the web development field. <br>
+    I have a desire to become a fullstack developer using the Javascript stack (React and Node).<br>
+    I'm currently learning javascript and I'm very passionate about the language.<br>
   </p> 
 </div>
 
