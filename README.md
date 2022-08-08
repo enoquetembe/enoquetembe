@@ -2,7 +2,6 @@
 
 
 <div> 
-  <h3> About me:</h3>
   
   <p>
     I'm a junior developer who wants to learn, share, grow and develop my skills in the web development field. <br>
