@@ -28,13 +28,20 @@
 <hr>
 
 <div>
-  <h3> Contact Me </h3>
+  <h3> Contact Me: </h3>
   <a href="https://www.linkedin.com/in/enoque-tembe-b73407230/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Enoque Tembe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-&nbsp;&nbsp;
-<a https://www.instagram.com/enoque_junior_/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-enoque_junior-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+     <img align="center" alt="Enoque's Linkedin" height="30" src="https://img.shields.io/badge/-Enoque Tembe-05122A?style=flat&logo=linkedin"/>
+  </a>
+  &nbsp;
+  &nbsp;
+ <a href="mailto:enoquetembetembe10@gmail.com" target="_blank">
+    <img align="center" alt="Enoque's gmail" height="30"src="https://img.shields.io/badge/-enoquetembetembe10@gmail.com-031D2A?style=flat&logo=gmail"/>
+ </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.instagram.com/enoque_junior_/" target="_blank">
+    <img align="center" alt="Enoque's instagram" height="30"  src="https://img.shields.io/badge/-enoque_junior-05122A?style=flat&logo=instagram"/>
+  </a>
+  
 </div>
 
