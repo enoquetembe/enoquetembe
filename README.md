@@ -11,7 +11,6 @@
 </div>
 
 
-
   <br>
   <hr>
 <div>
@@ -24,5 +23,18 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 </div>
  
+
+<br>
+<hr>
+
+<div>
+  <h3> Contact Me </h3>
+  <a href="https://www.linkedin.com/in/enoque-tembe-b73407230/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Enoque Tembe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+&nbsp;&nbsp;
+<a https://www.instagram.com/enoque_junior_/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-enoque_junior-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 </div>
 
