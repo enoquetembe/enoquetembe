@@ -1,4 +1,4 @@
-<h1 align= "left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%">   I'm Enoque</h1>
+<h1 align= "left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="4%">   I'm Enoque</h1>
 
 
 <div> 
