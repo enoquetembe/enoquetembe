@@ -5,7 +5,7 @@
   
   <p>
     I'm a junior developer who wants to learn, share, grow and develop my skills in the web development field. <br>
-    I have a desire to become a fullstack developer using the Javascript stack (React and NodeJS). <br>
+    I have a desire to become a fullstack developer using the MERN Stack (Mongo, Express, React, Node). <br>
     I'm currently learning JavaScript and I'm very passionate about the language.<br>
   </p> 
 </div>
