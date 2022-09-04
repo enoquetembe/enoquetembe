@@ -4,7 +4,7 @@
 <div> 
   
   <p>
-    I'm a junior developer who wants to learn, share, grow and develop my skills in the web development field. <br>
+    I'm a junior developer and enthusiast of the best web development technologies who wants to learn, share, grow and develop my skills in the web development field. <br>
     I have a desire to become a fullstack developer using the MERN Stack (MongoDB, Express, React, Node). <br>
     I'm currently learning JavaScript and I'm very passionate about the language.<br>
   </p> 
