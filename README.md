@@ -10,27 +10,24 @@
     <br>
     I have a desire to become a fullstack developer using the MERN Stack (MongoDB, Express, React, Node). 
     <br>
-    I'm currently learning JavaScript and I'm very passionate about the language.
+    I'm currently focus on learning and develop my front-end skills with CSS and React.
     <br>
   </p> 
 </div>
-
-
-  <br>
-  <hr>
+<hr>
 <div>
   <h3> Tech and Tools Stack: </h3>
   <div style="display: inline_block">
-  <img align="center" alt="Enoque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Enoque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Enoque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Enoque-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+  
+
+ <span> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </span>
+  <span> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  </span>
+ <span> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </span>
+  <span> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) </span>
+  <span> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) </sapna>
+  
 </div>
  
-
-<br>
-<hr>
 
 <div>
   <h3> Contact Me: </h3>
