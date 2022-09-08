@@ -28,6 +28,12 @@
   
 </div>
  
+ 
+
+<div>
+  <div align="start">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoquetembe&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <div>
   <h3> Contact Me: </h3>
@@ -45,5 +51,5 @@
     <img align="center" alt="Enoque's instagram" height="30"  src="https://img.shields.io/badge/-enoque_junior-07122D?style=flat&logo=instagram"/>
   </a>
   
-</div>
+
 
