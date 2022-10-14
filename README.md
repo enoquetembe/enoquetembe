@@ -16,6 +16,9 @@
   </p> 
 </div>
 <hr>
+
+<br>
+<br>
 <div>
   <h3> Tech and Tools Stack: </h3>
   <div style="display: inline_block">
