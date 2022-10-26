@@ -16,7 +16,7 @@
 </div>
 <hr>
 <div>
-  <h3> Tech and Tools Stack: </h3>
+  <h3>🛠 Tech and Tools Stack: </h3>
   <div style="display: inline_block">
   
 
@@ -38,7 +38,7 @@
 -->
 
 <div>
-  <h3> Contact Me: </h3>
+ <h3> ☎ Contact Me: </h3>
   <a href="https://www.linkedin.com/in/enoque-tembe-b73407230/" target="_blank">
      <img align="center" alt="Enoque's Linkedin" height="30" src="https://img.shields.io/badge/-Enoque Tembe-07122D?style=flat&logo=linkedin"/>
   </a>
