@@ -11,7 +11,8 @@
     I have a desire to become a fullstack developer using the MERN Stack (MongoDB, Express, React, Node). 
     <br>
     I'm currently focus on learning and develop my front-end skills with CSS and React.
-    <br>
+    
+  <p font-size: 1002px> <em> <strong> "TALK IS CHEAP. SHOW ME THE CODE"</em> </strong> - LINUS TORVALDS</p>
   </p> 
 </div>
 <hr>
