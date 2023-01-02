@@ -8,7 +8,7 @@
     <br>
     grow and develop my skills in the web development field.
     <br>
-    I have a desire to become a fullstack developer using the MERN Stack (MongoDB, Express, React, Node). 
+    I have a desire to become a fullstack developer
     <br>
     I'm currently focus on learning and develop my front-end skills with CSS and React.
     
