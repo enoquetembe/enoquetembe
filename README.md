@@ -8,7 +8,7 @@
     <br>
     grow and develop my skills in the web development field.
     <br>
-    I'm currently focus on learning and develop my front-end skills with CSS and React.
+    I'm focused on finishing my degree in Software Development course at university and graduating
     <br>
     I'm also looking for job as a fullstack developer working whith React.js and Node.js
     
@@ -20,7 +20,7 @@
   <h3>🛠 Technologies and Tools Stack: </h3>
   <div style="display: inline_block">
     
-   I'm skilled at: <br>
+   
   
  <span> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </span>
  <span> ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) </span>
@@ -44,7 +44,7 @@
 
 <div>
  <h3> ☎ Contact </h3>
-  <p>You can reach me on: </p>
+
   <a href="https://www.linkedin.com/in/enoque-tembe" target="_blank">
      <img align="center" alt="Enoque's Linkedin" height="30" src="https://img.shields.io/badge/-Enoque Tembe-07122D?style=flat&logo=linkedin"/>
   </a>
