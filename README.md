@@ -4,13 +4,13 @@
 <div> 
   
   <p>
-    I'm a full stack web developer and enthusiast of the best web development technologies who wants to learn, share, 
+    I'm a full web developer and enthusiast of the best web development technologies who wants to learn, share, 
     <br>
     grow and develop my skills in the web development field.
     <br>
     I'm focused on finishing my degree in Software Development course at university and graduating
     <br>
-    I'm also looking for job as a fullstack developer working whith React.js and Node.js
+    I'm also looking for job as a front-end developer working whith React.js
     
   <p font-size: 1002px> <em> <strong> "TALK IS CHEAP. SHOW ME THE CODE"</em> </strong> - LINUS TORVALDS</p>
   </p> 
