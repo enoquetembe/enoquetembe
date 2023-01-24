@@ -4,7 +4,7 @@
 <div> 
   
   <p>
-    I'm a  web developer and enthusiast of the best web development technologies who wants to learn, share, 
+    I'm a fullstack  web developer and enthusiast of the best web development technologies who wants to learn, share, 
     <br>
     grow and develop my skills in the web development field.
     <br>
