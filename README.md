@@ -2,19 +2,35 @@
 
 
 <div> 
-  
+   <h3> About Me:</h3>
   <p>
-    I'm a fullstack  web developer and enthusiast of the best web development technologies who wants to learn, share, 
-    <br>
-    grow and develop my skills in the web development field.
-    <br>
-    I'm focused on finishing my degree in Software Development course at university and graduating
-    <br>
-    I'm also looking for job as a front-end developer working whith React.js
-    
-  <p font-size: 1002px> <em> <strong> "TALK IS CHEAP. SHOW ME THE CODE"</em> </strong> - LINUS TORVALDS</p>
-  </p> 
+    I'm a fullstack web developer and enthusiast of the best web development technologies who wants to learn, share, grow and develop my skills in the web development field.
+  <br>
+    I'm focused on finishing my degree in Software Development course at university and graduating.
+  
+  
+  <h3> What I'm skilled at:</h3>
+   <p>
+     <span font-size: 1002px> <b>Front-end </b> </span>:
+    I have good skills in front-end development, I like to create interactive and attractive user interfaces of websites or applications, 
+    using various technologies such as:  <em> <b>  React.js, Styled-components, Tailwind CSS, BootStrap, CSS3, JavaScript, HTML5 and more... </b> </em>
+   </p>
+   <br>
+   <p>
+    <span font-size: 1002px> <b>Back-end </b> </span>:
+     I also have good skills in back-end development, I like to create functionality and business logic, build and maintain the infrastructure of web applications and databases, using good programming practices. To build backend of my applications I mostly use <b> <em> Node.js</em> </b> but I also have skills with <b> <em> PHP, C# and ASP .NET </em> </b>
+   </p>
+   <br>
+   <p>
+     <span font-size: 1002px> <b>Database </b> </span>:
+      I have some good with <b> <em> SQL Server, SQLite, MySQL </em> </b>
+
 </div>
+
+ <br>
+
+
+<!--
 <hr>
 <div>
   <h3>🛠 Technologies and Tools Stack: </h3>
@@ -35,6 +51,8 @@
  
      
 </div>
+
+-->
  
  
 <!--
@@ -45,7 +63,7 @@
 -->
 
 <div>
- <h3> ☎ Contact </h3>
+ <h3> ☎ How to reach me</h3>
 
   <a href="https://www.linkedin.com/in/enoque-tembe" target="_blank">
      <img align="center" alt="Enoque's Linkedin" height="30" src="https://img.shields.io/badge/-Enoque Tembe-07122D?style=flat&logo=linkedin"/>
@@ -60,6 +78,11 @@
   <a href="https://www.instagram.com/enoque_tembe_/" target="_blank">
     <img align="center" alt="Enoque's instagram" height="30"  src="https://img.shields.io/badge/-enoque_tembe_-07122D?style=flat&logo=instagram"/>
   </a>
+  <br> <br> <br> <br>
+  
+  <div align="center">
+     <p font-size: 1002px> <em> <strong> "TALK IS CHEAP. SHOW ME THE CODE"</em> </strong> - LINUS TORVALDS</p>
+  </div>
   
 
 
