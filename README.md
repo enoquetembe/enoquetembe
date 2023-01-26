@@ -2,27 +2,27 @@
 
 
 <div> 
-   <h3> About Me:</h3>
+   <h3> 📄 About Me:</h3>
   <p>
     I'm a fullstack web developer and enthusiast of the best web development technologies who wants to learn, share, grow and develop my skills in the web development field.
   <br>
     I'm focused on finishing my degree in Software Development course at university and graduating.
   
   
-  <h3> What I'm skilled at:</h3>
+  <h3> 👨‍💻 What I'm skilled at:</h3>
    <p>
-     <span font-size: 1002px> <b>Front-end </b> </span>:
+     <span font-size: 1002px> <b>🎨 Front-end </b> </span>:
     I have good skills in front-end development, I like to create interactive and attractive user interfaces of websites or applications, 
     using various technologies such as:  <em> <b>  React.js, Styled-components, Tailwind CSS, BootStrap, CSS3, JavaScript, HTML5 and more... </b> </em>
    </p>
    <br>
    <p>
-    <span font-size: 1002px> <b>Back-end </b> </span>:
+    <span font-size: 1002px> <b> 🛠 Back-end </b> </span>:
      I also have good skills in back-end development, I like to create functionality and business logic, build and maintain the infrastructure of web applications and databases, using good programming practices. To build backend of my applications I mostly use <b> <em> Node.js</em> </b> but I also have skills with <b> <em> PHP, C# and ASP .NET </em> </b>
    </p>
    <br>
    <p>
-     <span font-size: 1002px> <b>Database </b> </span>:
+     <span font-size: 1002px> <b>🛢️ Database </b> </span>:
       I have some good with <b> <em> SQL Server, SQLite, MySQL </em> </b>
 
 </div>
