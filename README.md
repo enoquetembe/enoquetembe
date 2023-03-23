@@ -29,8 +29,20 @@
       I have some good skills with <b> <em> SQL Server, SQLite, MySQL </em> </b>
 
 </div>
+ <div align="center">  
+
+   <!--
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enoquetembe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luzídio Rafael github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoquetembe&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+-->
+
+</div>
+
 
  <br>
+
 
 
 <!--
@@ -82,6 +94,8 @@
     <img align="center" alt="Enoque's instagram" height="30"  src="https://img.shields.io/badge/-enoque_tembe_-07122D?style=flat&logo=instagram"/>
   </a>
   <br> <br> <br> <br>
+   
+   
   
   <div align="center">
      <p font-size: 1002px> <em> <strong> "TALK IS CHEAP. SHOW ME THE CODE"</em> </strong> - LINUS TORVALDS</p>
