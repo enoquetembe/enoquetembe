@@ -6,10 +6,6 @@
   <p>
     I'm a fullstack web developer and enthusiast of the best web development technologies who wants to learn, share, grow and develop my skills in the web development field.
   <br>
-  I'm focused on finishing my degree in Software Development course at university and graduating.
-  
-    
-  
   
   <h3> 👨‍💻 What I'm skilled at:</h3>
    <p>
