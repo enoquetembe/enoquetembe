@@ -21,7 +21,7 @@
    <br>
    <p>
      <span font-size: 1002px> <b>🛢️ Database </b> </span>:
-      I have some good skills with <b> <em> SQL Server, SQLite, MySQL </em> </b>
+      I have some good skills with <b> <em> SQL Server, PostegreSQL, MySQL </em> </b>
 
 </div>
  <div align="center">  
