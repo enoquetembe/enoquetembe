@@ -16,7 +16,7 @@
    <br>
    <p>
     <span font-size: 1002px> <b> 🛠 Back-end </b> </span>:
-     I also have good skills in back-end development, I like to create functionalities and business logic, build and maintain the infrastructure of web applications and databases, using good programming practices. To build back-end of my applications I mostly use <b> <em> Node.js</em> </b> but I also have skills with <b> <em>  C# and ASP .NET </em> </b>
+     I also have good skills in back-end development, I like to create functionalities and business logic, build and maintain the infrastructure of web applications and databases, using good programming practices. To build back-end of my applications I mostly use <b> <em> Node.js</em> </b> but I also have skills with <b> <em>  Java and Spring </em> </b>
    </p>
    <br>
    <p>
